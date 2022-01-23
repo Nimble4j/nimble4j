@@ -1,4 +1,5 @@
-### Hi there 👋
+### About Nimble4j
+Nimble4j is a set of Guice Modules which together provides a simple and lightweight way to create Java programs.
 
 <!--
 **Nimble4j/nimble4j** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
