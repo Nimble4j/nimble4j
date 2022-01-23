@@ -1,0 +1,14 @@
+//These are built in functions exposed to the scripting world
+//NOTE: These are executed on start of the repl program
+
+LOG.info("Loading repl standard builtins...");
+
+def println(message){
+  System.out.println(message)
+}
+
+def format(message,args){
+  String.format(message,args)
+}
+
+LOG.info("Successfully loaded standard builts...");
